@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://food-delite.vercel.app/'
+export const url = 'https://food-delite-backend.vercel.app/'
